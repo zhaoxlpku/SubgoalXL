@@ -58,7 +58,7 @@ To ensure the correctness of generated proofs, we provide a verification pipelin
 
 We provide our model weights, which you can use directly for model deployment and experimentation. The weights can be downloaded from our [model hub](https://huggingface.co/username/project-model) (<span style="color: #4169e1; font-weight: bold;">TODO</span>).
 
-## Citation (<span style="color: #4169e1; font-weight: bold;">TODO</span>)
+## Citation
 
 If you use our code or data, please cite our paper:
 
