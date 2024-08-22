@@ -66,7 +66,8 @@ If you use our code or data, please cite our paper:
 @article{zhao2024subgoalxl,
       title = {SubgoalXL: Subgoal-based Expert Learning for Theorem Proving},
       author = {Zhao, Xueliang and Zheng, Lin and Bo, Haige and Hu, Changran and Thakker, Urmish and Kong, Lingpeng},
-      journal={arXiv preprint arXiv:2408.xxxxx},
+      journal={arXiv preprint arXiv:2408.11172},
+      url={https://arxiv.org/abs/2408.11172}, 
       year = {2024},
 }
 ```
