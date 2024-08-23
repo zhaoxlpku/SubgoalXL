@@ -13,7 +13,7 @@
 
 This repository contains the code and resources for our AI-powered theorem-proving project, designed to tackle complex formal proofs using language models.
 
-For more details, please refer to our [paper](https://arxiv.org/abs/placeholder).
+For more details, please refer to our [paper](https://arxiv.org/abs/2408.11172).
 
 <p align="center">
 
@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ## Data Resources
 
-We provide curated datasets essential for initializing the expert learning phase. These datasets can be downloaded from our [datasets hub](https://huggingface.co/datasets/username/data) (<span style="color: #4169e1; font-weight: bold;">TODO</span>). The full data preparation pipeline for generating these datasets is located in [data preparation](data_preparation/README.md).
+We provide curated datasets essential for initializing the expert learning phase. These datasets can be downloaded from our [datasets hub](https://huggingface.co/collections/xl-zhao/subgoalxl-66c84b77e0eaf131c0cdac15). The full data preparation pipeline for generating these datasets is located in [data preparation](data_preparation/README.md).
 
 ## Training
 
@@ -56,7 +56,7 @@ To ensure the correctness of generated proofs, we provide a verification pipelin
 
 ## Model Weights
 
-We provide our model weights, which you can use directly for model deployment and experimentation. The weights can be downloaded from our [model hub](https://huggingface.co/username/project-model) (<span style="color: #4169e1; font-weight: bold;">TODO</span>).
+We provide our model weights, which you can use directly for model deployment and experimentation. The weights can be downloaded from our [model hub](https://huggingface.co/collections/xl-zhao/subgoalxl-66c84b77e0eaf131c0cdac15).
 
 ## Citation
 
